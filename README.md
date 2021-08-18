@@ -10,3 +10,6 @@ API's
 
 API doc: https://docs.google.com/document/d/1Gp8dnfgCc52zQ1FCbBapSxps3FrPz0A7G1Cm11fSpRc/edit#
 
+Admin cred for qa env: username: test-admin@gmail.com   pwd: admin
+demouser    username: demouser@testmail.com    pwd: demouser
+
